@@ -71,6 +71,8 @@ typings/
 
 # production
 /build
+src/**/*.css
+src/**/*.scss
 
 # misc
 .DS_Store
